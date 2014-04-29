@@ -1,0 +1,1 @@
+Calculate linear RGB feature from "On line selection of discriminative tracking features" using OpenCV and show the best 5 spaces for given image and foreground mask. The first parameter is image and the second parameter is the foreground mask iamge.
